@@ -5,10 +5,13 @@
 	  correo::
 	  template:: Persona
 - ## Congresos doctorado
+	- template:: Congreso doctorado
 	- tipo:: [[Congresos]]
 	  URL::
 	  etiquetas::
+	-
 - ## Diario
+  template:: Diario
 	- ## Tareas pendientes
 		- {{query [[TODO]]}}
 		  collapsed:: true
