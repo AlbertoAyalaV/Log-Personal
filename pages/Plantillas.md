@@ -1,10 +1,10 @@
 ## Persona
+template:: Persona
 	- tipo:: [[Personas]] 
 	  descripción::
 	  link::
 	  correo::
 	  etiqueta::
-	  template:: Persona
 - ## Congreso
   template:: Congreso
 	- tipo:: [[Congresos]]
@@ -12,7 +12,6 @@
 	  etiquetas::
 	-
 - ## Diario
-  template:: Diario
 	- ## Tareas pendientes
 		- {{query [[TODO]]}}
 		  collapsed:: true
