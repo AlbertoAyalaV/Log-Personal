@@ -3,9 +3,10 @@
 	  descripción::
 	  link::
 	  correo::
+	  etiqueta::
 	  template:: Persona
-- ## Congresos doctorado
-	- template:: Congreso doctorado
+- ## Congreso
+  template:: Congreso
 	- tipo:: [[Congresos]]
 	  URL::
 	  etiquetas::
@@ -23,5 +24,4 @@
 	- ## Reuniones
 	- ## Notas rápidas
 - ## Ejemplos de Uso
--
 -
