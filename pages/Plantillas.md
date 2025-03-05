@@ -13,8 +13,9 @@ template-including-parent:: false
 	  URL::
 	  etiquetas::
 	  descripción::
+	  fecha-de-celebración::
+	  lugar::
 	  deadline::
-	  Fecha de celebración::
 	-
 - ## Diario
   template:: Diario
