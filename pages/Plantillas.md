@@ -12,6 +12,9 @@ template-including-parent:: false
 	- tipo:: [[Congresos]]
 	  URL::
 	  etiquetas::
+	  descripción::
+	  deadline::
+	  Fecha de celebración::
 	-
 - ## Diario
   template:: Diario
