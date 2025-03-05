@@ -20,6 +20,7 @@ template-including-parent:: false
 - ## Diario
   template:: Diario
   template-including-parent:: false
+	- ← [[<% yesterday %>]] | [[<% tomorrow %>]] →
 	- ## Tareas pendientes
 		- {{query [[TODO]]}}
 		  collapsed:: true
@@ -29,3 +30,12 @@ template-including-parent:: false
 	- ## Reuniones
 	- ## Notas rápidas
 - ## Ejemplos de Uso
+- ← [[[[Mar 4th, 2025]]]] | [[[[Mar 6th, 2025]]]] →
+- ## Tareas pendientes
+	- {{query [[TODO]]}}
+	  collapsed:: true
+- ## Nuevas tareas
+- ## Objetivos del día
+	- TODO Mirar tareas pendientes
+- ## Reuniones
+- ## Notas rápidas
