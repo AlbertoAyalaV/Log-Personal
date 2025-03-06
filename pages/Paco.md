@@ -1,6 +1,6 @@
 tipo:: [[Personas]]
 nombre-completo:: Francisco de Borja Rodríguez Ortiz
-descripción::
+descripción:: Tutor/Director de tesis
 link:: https://orcid.org/0000-0003-4053-099X
-correo::
-etiqueta::
+correo:: f.rodriguez@uam.es
+etiqueta:: #UAM #Doctorado
