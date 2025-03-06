@@ -33,7 +33,7 @@ template-including-parent:: false
 	- ## Notas rápidas
 - ## Reunión
 	- tipo:: [[Reuniones]] 
-	  URL::
+	  participantes:: [[Alberto Ayala]],   
 	  descripción::
 	  fecha-hora::
 	  lugar::
