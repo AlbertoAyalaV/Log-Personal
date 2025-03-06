@@ -34,9 +34,9 @@ template-including-parent:: false
 - ## Reunión
 	- tipo:: [[Reuniones]] 
 	  URL::
-	  etiquetas::
 	  descripción::
-	  fecha-de-celebración::
+	  fecha-hora::
 	  lugar::
-	  deadline::
+	  URL::
+	  etiquetas::
 - ## Ejemplos de Uso
