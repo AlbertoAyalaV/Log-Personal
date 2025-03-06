@@ -31,4 +31,12 @@ template-including-parent:: false
 		- TODO Mirar tareas pendientes
 	- ## Reuniones
 	- ## Notas rápidas
+- ## Reunión
+	- tipo:: [[Reuniones]] 
+	  URL::
+	  etiquetas::
+	  descripción::
+	  fecha-de-celebración::
+	  lugar::
+	  deadline::
 - ## Ejemplos de Uso
