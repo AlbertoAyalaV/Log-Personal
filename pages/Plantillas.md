@@ -1,7 +1,8 @@
 ## Persona
 template:: Persona
 template-including-parent:: false
-	- tipo:: [[Personas]] 
+	- tipo:: [[Personas]]
+	  nombre-completo:: 
 	  descripción::
 	  link::
 	  correo::
