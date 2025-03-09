@@ -36,9 +36,9 @@ template-including-parent:: false
   :LOGBOOK:
   CLOCK: [2025-03-09 Sun 13:29:30]--[2025-03-09 Sun 13:29:30] =>  00:00:00
   :END:
-	- TODO [[Reunión con [[nombre]] - <%today%> - <%time%> - <%date%>]]
+	- TODO [[Reunión con [[nombre]] - <%today%> - <%time%>]]
 	  SCHEDULED: <2025-03-09 Sun 14:13>
-	  título:: [[Reunión con [[nombre]] - fecha]]
+	  título:: [[Reunión con [[nombre]] - <%today%> - <%time%>]]
 	  participantes:: [[Alberto Ayala]],
 	  duración::
 	  lugar::
@@ -48,3 +48,14 @@ template-including-parent:: false
 	  tipo:: [[Reuniones]]
 	  etiquetas::
 - ## Ejemplos de Uso
+	- TODO [[Reunión con [[nombre]] - [[Mar 9th, 2025]] - 15:23]]
+	  SCHEDULED: <2025-03-09 Sun 14:13>
+	  título:: [[Reunión con [[nombre]] - [[Mar 9th, 2025]] - 15:23]]
+	  participantes:: [[Alberto Ayala]],
+	  duración::
+	  lugar::
+	  URL:: 
+	  descripción::
+	  proyecto::
+	  tipo:: [[Reuniones]]
+	  etiquetas::
