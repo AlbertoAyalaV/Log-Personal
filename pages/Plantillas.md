@@ -31,12 +31,23 @@ template-including-parent:: false
 	- ## Reuniones
 	- ## Notas rápidas
 - ## Reunión
+  template:: Reunión
+  template-including-parent:: false
+  collapsed:: true
 	- Título:: [[Reunión con {{nombre}}]]
 	  tipo:: [[Reuniones]] 
 	  participantes:: [[Alberto Ayala]],   
 	  descripción::
-	  fecha-hora:: {{Fecha}}
+	  fecha-hora:: {{fecha}}
 	  lugar::
 	  URL::
 	  etiquetas::
 - ## Ejemplos de Uso
+- Título:: [[Reunión con {{nombre}}]]
+  tipo:: [[Reuniones]] 
+  participantes:: [[Alberto Ayala]],   
+  descripción::
+  fecha-hora:: {{fecha}}
+  lugar::
+  URL::
+  etiquetas::
