@@ -21,7 +21,6 @@ template-including-parent:: false
 - ## Diario
   template:: Diario
   template-including-parent:: false
-  collapsed:: true
 	- ← <% yesterday %> | <% tomorrow %> →
 	- ## Tareas pendientes
 		- {{query [[TODO]]}}
