@@ -42,7 +42,7 @@ template-including-parent:: false
 	  participantes:: [[Alberto Ayala]],
 	  duración::
 	  lugar::
-	  URL:: {{date:YYYY-MM-DD}}
+	  URL:: 
 	  descripción::
 	  proyecto::
 	  tipo:: [[Reuniones]]
