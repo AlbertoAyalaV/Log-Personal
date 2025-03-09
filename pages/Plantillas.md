@@ -50,13 +50,8 @@ template-including-parent:: false
   participantes:: [[Alberto Ayala]],
   duración:: 1 hora
   lugar::
-  URL::
+  URL:: [[Reunión con [[Alberto Ayala]] - [[Mar 6th, 2025]] ]]
   descripción::
   proyecto::
   tipo:: [[Reuniones]]
   etiquetas::
-- Contar palabra
-  SCHEDULED: <2025-03-10 Mon>
-  :LOGBOOK:
-  CLOCK: [2025-03-09 Sun 13:44:29]--[2025-03-09 Sun 13:44:30] =>  00:00:01
-  :END:
