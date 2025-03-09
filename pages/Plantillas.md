@@ -37,6 +37,7 @@ template-including-parent:: false
   CLOCK: [2025-03-09 Sun 13:29:30]--[2025-03-09 Sun 13:29:30] =>  00:00:00
   :END:
 	- TODO [[Reunión con [[nombre]] - <%today%> - <%time%>]]
+	  SCHEDULED: <<%today%> eee <%time%>
 	  título:: [[Reunión con [[nombre]] - fecha]]
 	  participantes:: [[Alberto Ayala]],
 	  duración::
@@ -47,8 +48,8 @@ template-including-parent:: false
 	  tipo:: [[Reuniones]]
 	  etiquetas::
 - ## Ejemplos de Uso
-	- TODO [[Reunión con [[nombre]] - [[Mar 9th, 2025]] - 14:10]]
-	  SCHEDULED: <2025-03-09 14:10>
+	- TODO [[Reunión con [[nombre]] - [[Mar 9th, 2025]] - 14:12]]
+	  SCHEDULED: <2025-03-09 Sun 14:13>
 	  título:: [[Reunión con [[nombre]] - fecha]]
 	  participantes:: [[Alberto Ayala]],
 	  duración::
