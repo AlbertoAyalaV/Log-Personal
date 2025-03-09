@@ -37,7 +37,7 @@ template-including-parent:: false
 	  participantes:: [[Alberto Ayala]],   
 	  descripción::
 	  fecha-hora:: 
-	  
+	  duración::
 	  lugar::
 	  URL::
 	  tipo:: [[Reuniones]] 
