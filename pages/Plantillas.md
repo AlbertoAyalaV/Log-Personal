@@ -21,7 +21,6 @@ template-including-parent:: false
 - ## Diario
   template:: Diario
   template-including-parent:: false
-  collapsed:: true
 	- ← <% yesterday %> | <% tomorrow %> →
 	- ## Tareas pendientes
 		- {{query [[TODO]]}}
@@ -32,10 +31,11 @@ template-including-parent:: false
 	- ## Reuniones
 	- ## Notas rápidas
 - ## Reunión
-	- tipo:: [[Reuniones]] 
+	- Título:: [[Reunión con {{nombre}}]]
+	  tipo:: [[Reuniones]] 
 	  participantes:: [[Alberto Ayala]],   
 	  descripción::
-	  fecha-hora::
+	  fecha-hora:: {{Fecha}}
 	  lugar::
 	  URL::
 	  etiquetas::
