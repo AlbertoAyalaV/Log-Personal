@@ -44,8 +44,9 @@ template-including-parent:: false
 	  tipo:: [[Reuniones]]
 	  etiquetas::
 - ## Ejemplos de Uso
-- TODO Título:: [[Reunión con [[nombre]] - fecha]]
-  SCHEDULED: <día hora>
+- TODO r
+  SCHEDULED: <2025-03-09 Sun 13:08>
+  Título:: [[Reunión con [[Alberto Ayala]] - [[Mar 6th, 2025]] ]]
   participantes:: [[Alberto Ayala]],
   descripción::
   fecha-hora::
@@ -54,3 +55,8 @@ template-including-parent:: false
   URL::
   tipo:: [[Reuniones]]
   etiquetas::
+  :LOGBOOK:
+  CLOCK: [2025-03-09 Sun 13:08:12]--[2025-03-09 Sun 13:08:13] =>  00:00:01
+  CLOCK: [2025-03-09 Sun 13:08:13]--[2025-03-09 Sun 13:08:14] =>  00:00:01
+  CLOCK: [2025-03-09 Sun 13:08:15]--[2025-03-09 Sun 13:08:29] =>  00:00:14
+  :END:
