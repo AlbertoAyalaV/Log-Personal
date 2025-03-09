@@ -45,6 +45,7 @@ template-including-parent:: false
 	  etiquetas::
 - ## Ejemplos de Uso
 - TODO [[Reunión con [[Alberto Ayala]] - [[Mar 6th, 2025]] ]] SCHEDULED: <2025-03-09 Sun 13:08>
+  SCHEDULED: <2025-03-09 Sun 13:13>
   Título:: [[Reunión con [[Alberto Ayala]] - [[Mar 6th, 2025]] ]]
   participantes:: [[Alberto Ayala]],
   descripción::
