@@ -38,12 +38,20 @@ template-including-parent:: false
   :END:
 	- TODO [[Reunión con [[nombre]] - fecha]]
 	  participantes:: [[Alberto Ayala]],
-	  descripción::
-	  fecha-hora::
 	  duración::
 	  lugar::
 	  URL::
+	  descripción::
+	  proyecto::
 	  tipo:: [[Reuniones]]
 	  etiquetas::
 - ## Ejemplos de Uso
--
+- TODO [[Reunión con [[Alberto Ayala]] - {{renderer agenda, task-list}}]]
+  participantes:: [[Alberto Ayala]],
+  duración::
+  lugar::
+  URL::
+  descripción::
+  proyecto::
+  tipo:: [[Reuniones]]
+  etiquetas::
