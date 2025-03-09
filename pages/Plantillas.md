@@ -33,7 +33,7 @@ template-including-parent:: false
 - ## Reunión
   template:: Reunión
   template-including-parent:: false
-	- Título:: [[Reunión con {{nombre}}]]
+	- Título:: [[Reunión con [[Alberto Ayala]]]] 
 	  tipo:: [[Reuniones]] 
 	  participantes:: [[Alberto Ayala]],   
 	  descripción::
@@ -42,11 +42,4 @@ template-including-parent:: false
 	  URL::
 	  etiquetas::
 - ## Ejemplos de Uso
-- Título:: [[Reunión con {{nombre}}]]
-  tipo:: [[Reuniones]] 
-  participantes:: [[Alberto Ayala]],   
-  descripción::
-  fecha-hora:: 
-  lugar::
-  URL::
-  etiquetas::
+- /templ
