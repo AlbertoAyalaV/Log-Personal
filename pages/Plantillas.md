@@ -42,12 +42,11 @@ template-including-parent:: false
 	  URL::
 	  etiquetas::
 - ## Ejemplos de Uso
-- /
-- Título:: [[Reunión con [[Alberto Ayala]] - {{fecha}}]] 
-  tipo:: [[Reuniones]] 
-  participantes:: [[Alberto Ayala]],   
-  descripción::
-  fecha-hora:: 
-  lugar::
-  URL::
-  etiquetas::
+	- Título:: [[Reunión con [[Alberto Ayala]] - [[Mar 13th, 2025]]]] 
+	  tipo:: [[Reuniones]] 
+	  participantes:: [[Alberto Ayala]],   
+	  descripción::
+	  fecha-hora:: 
+	  lugar::
+	  URL::
+	  etiquetas::
