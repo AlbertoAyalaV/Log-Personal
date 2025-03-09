@@ -48,15 +48,6 @@ template-including-parent:: false
 	  tipo:: [[Reuniones]]
 	  etiquetas::
 - ## Ejemplos de Uso
-	- TODO [[Reunión con [[nombre]] - [[Mar 9th, 2025]] - 14:24]]
-	  SCHEDULED: <2025-03-09 Sun 14:13>
-	  título:: [[Reunión con [[nombre]] - fecha]]
-	  participantes:: [[Alberto Ayala]],
-	  duración::
-	  lugar::
-	  URL:: {{date:YYYY-MM-DD}}
-	  descripción::
-	  proyecto::
-	  tipo:: [[Reuniones]]
-	  etiquetas::
+	- Hoy es {{fecha}}.
+	-
 -
