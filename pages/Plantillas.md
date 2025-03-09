@@ -33,7 +33,13 @@ template-including-parent:: false
 - ## Reunión
   template:: Reunión
   template-including-parent:: false
+  :LOGBOOK:
+  CLOCK: [2025-03-09 Sun 13:00:57]--[2025-03-09 Sun 13:00:58] =>  00:00:01
+  :END:
 	- Título:: [[Reunión con [[{{nombre}}]] - {{fecha}}]] 
+	  :LOGBOOK:
+	  CLOCK: [2025-03-09 Sun 13:00:57]--[2025-03-09 Sun 13:00:58] =>  00:00:01
+	  :END:
 	  participantes:: [[Alberto Ayala]],   
 	  descripción::
 	  fecha-hora:: 
