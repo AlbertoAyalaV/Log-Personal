@@ -47,7 +47,6 @@ template-including-parent:: false
 	  etiquetas::
 - ## Ejemplos de Uso
 - TODO [[Reunión con [[Alberto Ayala]] - [[Mar 6th, 2025]] ]]
-  SCHEDULED: <2025-03-06 Thu 13:42>
   participantes:: [[Alberto Ayala]],
   duración:: 1 hora
   lugar::
@@ -56,5 +55,8 @@ template-including-parent:: false
   proyecto::
   tipo:: [[Reuniones]]
   etiquetas::
-- TODO Contar palabra
-  SCHEDULED: <2025-03-09 Sun>
+- Contar palabra
+  SCHEDULED: <2025-03-10 Mon>
+  :LOGBOOK:
+  CLOCK: [2025-03-09 Sun 13:44:29]--[2025-03-09 Sun 13:44:30] =>  00:00:01
+  :END:
