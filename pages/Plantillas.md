@@ -46,12 +46,15 @@ template-including-parent:: false
 	  tipo:: [[Reuniones]]
 	  etiquetas::
 - ## Ejemplos de Uso
-- TODO [[Reunión con [[Alberto Ayala]] - {{renderer agenda, task-list}}]]
+- TODO [[Reunión con [[Alberto Ayala]] - [[Mar 6th, 2025]] ]]
+  SCHEDULED: <2025-03-06 Thu 13:42>
   participantes:: [[Alberto Ayala]],
-  duración::
+  duración:: 1 hora
   lugar::
   URL::
   descripción::
   proyecto::
   tipo:: [[Reuniones]]
   etiquetas::
+- TODO Contar palabra
+  SCHEDULED: <2025-03-09 Sun>
