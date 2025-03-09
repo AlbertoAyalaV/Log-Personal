@@ -38,7 +38,7 @@ template-including-parent:: false
   :END:
 	- ### TODO [[Reunión con [[nombre]] - <%today%> - <%time%>]]
 	  SCHEDULED: <2025-03-09 Sun 14:13>
-	- participantes:: [[Alberto Ayala]],
+	  participantes:: [[Alberto Ayala]],
 	  duración::
 	  lugar::
 	  URL:: 
