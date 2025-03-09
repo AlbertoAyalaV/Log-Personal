@@ -1,22 +1,22 @@
 ## Persona
 template:: Persona
 template-including-parent:: false
-	- tipo:: [[Personas]]
-	  nombre-completo:: 
+	- nombre-completo:: 
 	  descripción::
 	  link::
 	  correo::
 	  etiqueta::
+	  tipo:: [[Personas]]
 - ## Congreso
   template:: Congreso
   template-including-parent:: false
-	- tipo:: [[Congresos]]
-	  URL::
-	  etiquetas::
+	- URL::
 	  descripción::
 	  fecha-de-celebración::
 	  lugar::
 	  deadline::
+	  etiquetas::
+	  tipo:: [[Congresos]]
 	-
 - ## Diario
   template:: Diario
@@ -37,7 +37,9 @@ template-including-parent:: false
 	  participantes:: [[Alberto Ayala]],   
 	  descripción::
 	  fecha-hora:: 
+	  
 	  lugar::
 	  URL::
+	  tipo:: [[Reuniones]] 
 	  etiquetas::
 - ## Ejemplos de Uso
