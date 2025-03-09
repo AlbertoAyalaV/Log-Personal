@@ -33,12 +33,11 @@ template-including-parent:: false
 - ## Reunión
   template:: Reunión
   template-including-parent:: false
-  collapsed:: true
 	- Título:: [[Reunión con {{nombre}}]]
 	  tipo:: [[Reuniones]] 
 	  participantes:: [[Alberto Ayala]],   
 	  descripción::
-	  fecha-hora:: {{fecha}}
+	  fecha-hora:: 
 	  lugar::
 	  URL::
 	  etiquetas::
@@ -47,7 +46,7 @@ template-including-parent:: false
   tipo:: [[Reuniones]] 
   participantes:: [[Alberto Ayala]],   
   descripción::
-  fecha-hora:: {{fecha}}
+  fecha-hora:: 
   lugar::
   URL::
   etiquetas::
