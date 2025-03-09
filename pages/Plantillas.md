@@ -48,4 +48,3 @@ template-including-parent:: false
 	  tipo:: [[Reuniones]]
 	  etiquetas::
 - ## Ejemplos de Uso
--
