@@ -33,7 +33,7 @@ template-including-parent:: false
 - ## Reunión
   template:: Reunión
   template-including-parent:: false
-	- Título:: [[Reunión con [[{{nombre}}]] - {{fecha}}]] 
+	- Título:: [[Reunión con [[{{nombre}}]] - SCHEDULED: <{{date}} 10:00>]] 
 	  participantes:: [[Alberto Ayala]],   
 	  descripción::
 	  fecha-hora:: 
@@ -43,3 +43,12 @@ template-including-parent:: false
 	  tipo:: [[Reuniones]] 
 	  etiquetas::
 - ## Ejemplos de Uso
+- Título:: [[Reunión con [[{{nombre}}]] - SCHEDULED: <{{date}} 10:00>]] 
+  participantes:: [[Alberto Ayala]],   
+  descripción::
+  fecha-hora:: 
+  duración::
+  lugar::
+  URL::
+  tipo:: [[Reuniones]] 
+  etiquetas::
