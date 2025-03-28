@@ -27,7 +27,7 @@ template-including-parent:: false
 		  collapsed:: true
 	- ## Nuevas tareas
 	- ## Objetivos del día
-		- DONE Mirar tareas pendientes
+		- TODO Mirar tareas pendientes
 	- ## Reuniones
 	- ## Notas rápidas
 - ## Reunión
