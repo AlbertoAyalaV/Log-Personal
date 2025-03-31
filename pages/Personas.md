@@ -1,4 +1,5 @@
 ## Todas las personas
+collapsed:: true
 	- {{query (and (property tipo [[Personas]]) (not (page [[Plantillas]]))) }}
 	  query-table:: false
 	-
