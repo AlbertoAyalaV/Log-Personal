@@ -10,6 +10,7 @@ template-including-parent:: false
 - ## Congreso
   template:: Congreso
   template-including-parent:: false
+  collapsed:: true
 	- URL::
 	  descripción::
 	  fecha-de-celebración::
@@ -21,6 +22,7 @@ template-including-parent:: false
 - ## Diario
   template:: Diario
   template-including-parent:: false
+  collapsed:: true
 	- ← <% yesterday %> | <% tomorrow %> →
 	- ## Tareas pendientes
 		- {{query [[TODO]]}}
